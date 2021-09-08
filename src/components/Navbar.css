@@ -1,0 +1,12 @@
+.news-hover:hover {
+  border-bottom: 6px solid #002837;
+  transition: ease-in;
+  color: #00b3e5;
+  transition-duration: 0.1s;
+}
+
+.otherCategories:hover {
+  border-bottom: 6px solid #002837;
+  transition: ease-in;
+  transition-duration: 0.1s;
+}
