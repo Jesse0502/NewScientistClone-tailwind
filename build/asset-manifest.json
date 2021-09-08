@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/NewScientistClone-tailwind/static/css/main.fbada72a.chunk.css",
+    "main.js": "/NewScientistClone-tailwind/static/js/main.10d35a30.chunk.js",
+    "main.js.map": "/NewScientistClone-tailwind/static/js/main.10d35a30.chunk.js.map",
+    "runtime-main.js": "/NewScientistClone-tailwind/static/js/runtime-main.070fdeb8.js",
+    "runtime-main.js.map": "/NewScientistClone-tailwind/static/js/runtime-main.070fdeb8.js.map",
+    "static/css/2.06740135.chunk.css": "/NewScientistClone-tailwind/static/css/2.06740135.chunk.css",
+    "static/js/2.cca75a1b.chunk.js": "/NewScientistClone-tailwind/static/js/2.cca75a1b.chunk.js",
+    "static/js/2.cca75a1b.chunk.js.map": "/NewScientistClone-tailwind/static/js/2.cca75a1b.chunk.js.map",
+    "index.html": "/NewScientistClone-tailwind/index.html",
+    "static/css/2.06740135.chunk.css.map": "/NewScientistClone-tailwind/static/css/2.06740135.chunk.css.map",
+    "static/css/main.fbada72a.chunk.css.map": "/NewScientistClone-tailwind/static/css/main.fbada72a.chunk.css.map",
+    "static/js/2.cca75a1b.chunk.js.LICENSE.txt": "/NewScientistClone-tailwind/static/js/2.cca75a1b.chunk.js.LICENSE.txt",
+    "static/media/more-news-humans-2.d321cbac.jpg": "/NewScientistClone-tailwind/static/media/more-news-humans-2.d321cbac.jpg",
+    "static/media/more-news-humans.a677bbbb.jpg": "/NewScientistClone-tailwind/static/media/more-news-humans.a677bbbb.jpg",
+    "static/media/more-news-life.08f06aa8.jpg": "/NewScientistClone-tailwind/static/media/more-news-life.08f06aa8.jpg",
+    "static/media/more-news-space.ae8ebf5a.jpg": "/NewScientistClone-tailwind/static/media/more-news-space.ae8ebf5a.jpg",
+    "static/media/news.e10b7f28.webp": "/NewScientistClone-tailwind/static/media/news.e10b7f28.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.070fdeb8.js",
+    "static/css/2.06740135.chunk.css",
+    "static/js/2.cca75a1b.chunk.js",
+    "static/css/main.fbada72a.chunk.css",
+    "static/js/main.10d35a30.chunk.js"
+  ]
+}
